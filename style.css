@@ -1,15 +1,5 @@
 
-            body
-            {
-                font-family: monospace;
-            }
-            /* Formatação do titulo do meu site */
-            h1
-            {
-                text-align: center;
-                color: rgb(25, 8, 179);
-                font-family: serif;
-            }
+          
             table
             {
                 background-color: rgb(233, 10, 196); 
@@ -20,5 +10,17 @@
                 margin-right:auto;
                 border: 5px dotted blueviolet;
                 border-radius: 10px;
+            }
+            td, th
+            body
+            {
+                font-family: monospace;
+            }
+            /* Formatação do titulo do meu site */
+            h1
+            {
+                text-align: center;
+                color: rgb(25, 8, 179);
+                font-family: serif;
             }
     
